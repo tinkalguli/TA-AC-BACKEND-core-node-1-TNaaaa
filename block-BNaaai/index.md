@@ -16,3 +16,4 @@ console.log(parsedUrl);
 - console.log parsed Url host and protocol
 
 2. Do a request on google.com and view headers inside developer's network tab by clicking on a specific request.
+
